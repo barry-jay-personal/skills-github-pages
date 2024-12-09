@@ -1,7 +1,7 @@
 title: "Diving In"
 date: 2024-12-11
 
-Hi everyone! I'm going to write about tree calculus and intensional
+"Hi everyone! I'm going to write about tree calculus and intensional
 computation and overturning the standard model of computation etc. Of
 course, I've written papers and books about this stuff, have been
 chipping away for almost 25 years, but the dominant reaction has been
@@ -121,4 +121,4 @@ and its type is
 
 However, there is no need to hack the term language. It is enough to
 hack the type system, by adding a subtyping rule for the program type
-of omega.
+of omega."
